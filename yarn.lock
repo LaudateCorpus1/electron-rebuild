@@ -5008,9 +5008,9 @@ nice-try@^1.0.4:
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
 node-abi@^3.0.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.5.0.tgz#26e8b7b251c3260a5ac5ba5aef3b4345a0229248"
-  integrity sha512-LtHvNIBgOy5mO8mPEUtkCW/YCRWYEKshIvqhe1GHHyXEHEB5mgICyYnAcl4qan3uFeRROErKGzatFHPf6kDxWw==
+  version "3.32.0"
+  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.32.0.tgz#a22e038efab01d9a35c6b19808b430616ed80539"
+  integrity sha512-HkwdiLzE/LeuOMIQq/dJq70oNyRc88+wt5CH/RXYseE00LkA/c4PkS6Ti1vE4OHYUiKjkwuxjWq9pItgrz8UJw==
   dependencies:
     semver "^7.3.5"
 
